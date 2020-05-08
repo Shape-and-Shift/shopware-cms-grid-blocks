@@ -25,6 +25,18 @@
                 },
                 "2-8-2": {
                     "label": "2-8-2 column"
+                },
+                "3-9": {
+                    "label": "3-9 column"
+                },
+                "9-3": {
+                    "label": "9-3 column"
+                },
+                "4-8": {
+                    "label": "4-8 column"
+                },
+                "8-4": {
+                    "label": "8-4 column"
                 }
             }
         }

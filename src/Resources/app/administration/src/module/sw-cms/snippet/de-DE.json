@@ -22,6 +22,18 @@
                 },
                 "2-8-2": {
                     "label": "2-8-2 Spalten"
+                },
+                "3-9": {
+                    "label": "3-9 Spalten"
+                },
+                "9-3": {
+                    "label": "9-3 Spalten"
+                },
+                "4-8": {
+                    "label": "4-8 Spalten"
+                },
+                "8-4": {
+                    "label": "8-4 Spalten"
                 }
             }
         }

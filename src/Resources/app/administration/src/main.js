@@ -7,6 +7,10 @@ import './module/sw-cms/blocks/grid/3-3-3-3';
 import './module/sw-cms/blocks/grid/2-2-2-2-2-2';
 import './module/sw-cms/blocks/grid/3-6-3';
 import './module/sw-cms/blocks/grid/2-8-2';
+import './module/sw-cms/blocks/grid/3-9';
+import './module/sw-cms/blocks/grid/9-3';
+import './module/sw-cms/blocks/grid/4-8';
+import './module/sw-cms/blocks/grid/8-4';
 
 import deDE from './module/sw-cms/snippet/de-DE.json';
 import enGB from './module/sw-cms/snippet/en-GB.json';
