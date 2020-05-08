@@ -1,0 +1,32 @@
+{
+    "sas-cms-grid": {
+        "blocks": {
+            "grid": {
+                "category": {
+                    "label": "Grid"
+                },
+                "oneColumn": {
+                    "label": "Full width"
+                },
+                "twoColumn": {
+                    "label": "Two columns"
+                },
+                "threeColumn": {
+                    "label": "Three columns"
+                },
+                "fourColumn": {
+                    "label": "Four columns"
+                },
+                "sixColumn": {
+                    "label": "Six columns"
+                },
+                "3-6-3": {
+                    "label": "3-6-3 columns"
+                },
+                "2-8-2": {
+                    "label": "2-8-2 column"
+                }
+            }
+        }
+    }
+}

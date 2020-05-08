@@ -1,0 +1,29 @@
+{
+    "name": "sas/cms-grid-blocks",
+    "description": "CMS grid blocks",
+    "type": "shopware-platform-plugin",
+    "version": "v1.0.1",
+    "license": "proprietary",
+        "authors": [
+            {
+                "name": "Shape & Shift",
+                "role": "Manufacturer",
+                "homepage": "https://shapeandshift.dev"
+            }
+    ],
+    "autoload": {
+        "psr-4": {
+          "Sas\\CmsGridBlocks\\": "src/"
+        }
+    },
+    "require": {
+        "shopware/core": "*"
+    },
+    "extra": {
+        "shopware-plugin-class": "Sas\\CmsGridBlocks\\SasCmsGridBlocks",
+        "label": {
+          "de-DE": "CMS grid blocks",
+          "en-GB": "CMS grid blocks"
+        }
+    }
+}

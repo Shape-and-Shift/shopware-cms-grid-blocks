@@ -1,0 +1,21 @@
+.sas-cms-grid-block-12-column-preview {
+    width: 100%;
+    display: inline-flex;
+    padding: 15px;
+}
+
+.sas-cms-block-grid {
+    display: flex;
+    width: 100%;
+
+    .sas-cms-block-column {
+        box-sizing: border-box;
+        background-color: rgba(78,133,222,.05);
+        border: 2px dashed rgba(78,133,222,.4);
+        height: 28px;
+
+        &+.sas-cms-block-column{
+            margin-left: 5px;
+        }
+    }
+}
