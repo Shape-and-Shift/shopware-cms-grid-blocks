@@ -37,6 +37,9 @@
                 },
                 "8-4": {
                     "label": "8-4 column"
+                },
+                "fiveColumn": {
+                    "label": "Five columns"
                 }
             }
         }
