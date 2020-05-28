@@ -1,3 +1,6 @@
+# 1.0.4
+- fixed bug with 9-3 administration component
+
 # 1.0.3
 - added 5 column block
 
