@@ -1,3 +1,7 @@
+# 1.0.5
+- added 3-3-6 block
+- added 6-3-3 block
+
 # 1.0.4
 - fixed bug with 9-3 administration component
 
