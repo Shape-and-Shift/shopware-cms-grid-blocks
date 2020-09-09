@@ -24,6 +24,18 @@
         "label": {
           "de-DE": "CMS grid blocks",
           "en-GB": "CMS grid blocks"
+        },
+        "description": {
+            "en-GB": "A plugin for the CMS builder which adds blocks for several column layouts",
+            "de-DE": "Plugin welches im CMS Designer diverse Spalten Blöcke bereit stellt"
+        },
+        "manufacturerLink": {
+            "en-GB": "https://shapeandshift.dev",
+            "de-DE": "https://shapeandshift.dev"
+        },
+        "supportLink": {
+            "de-DE": "https://shapeandshift.dev",
+            "en-GB": "https://shapeandshift.dev"
         }
     }
 }
