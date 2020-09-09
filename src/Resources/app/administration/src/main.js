@@ -7,6 +7,8 @@ import './module/sw-cms/blocks/grid/3-3-3-3';
 import './module/sw-cms/blocks/grid/five-columns';
 import './module/sw-cms/blocks/grid/2-2-2-2-2-2';
 import './module/sw-cms/blocks/grid/3-6-3';
+import './module/sw-cms/blocks/grid/6-3-3';
+import './module/sw-cms/blocks/grid/3-3-6';
 import './module/sw-cms/blocks/grid/2-8-2';
 import './module/sw-cms/blocks/grid/3-9';
 import './module/sw-cms/blocks/grid/9-3';

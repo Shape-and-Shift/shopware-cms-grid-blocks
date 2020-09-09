@@ -20,6 +20,12 @@
                 "3-6-3": {
                     "label": "3-6-3 Spalten"
                 },
+                "3-3-6": {
+                    "label": "3-3-6 Spalten"
+                },
+                "6-3-3": {
+                    "label": "6-3-3 Spalten"
+                },
                 "2-8-2": {
                     "label": "2-8-2 Spalten"
                 },
