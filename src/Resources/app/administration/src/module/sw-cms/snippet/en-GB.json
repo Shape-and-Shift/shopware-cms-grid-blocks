@@ -23,6 +23,12 @@
                 "3-6-3": {
                     "label": "3-6-3 columns"
                 },
+                "3-3-6": {
+                    "label": "3-3-6 columns"
+                },
+                "6-3-3": {
+                    "label": "6-3-3 columns"
+                },
                 "2-8-2": {
                     "label": "2-8-2 column"
                 },
