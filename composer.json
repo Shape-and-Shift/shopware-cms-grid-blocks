@@ -2,7 +2,7 @@
     "name": "sas/cms-grid-blocks",
     "description": "CMS grid blocks",
     "type": "shopware-platform-plugin",
-    "version": "v1.0.5",
+    "version": "v1.0.6",
     "license": "proprietary",
         "authors": [
             {

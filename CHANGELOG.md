@@ -1,3 +1,6 @@
+# 1.0.6
+- adjusted responsive columns of grid 3-3-3-3
+
 # 1.0.5
 - added 3-3-6 block
 - added 6-3-3 block
