@@ -1,3 +1,6 @@
+# 1.0.7
+- all columns on mobile are full width
+
 # 1.0.6
 - adjusted responsive columns of grid 3-3-3-3
 
