@@ -3,7 +3,7 @@
     {% block block_grid_8_4_col_1 %}
         {% set element = block.slots.getSlot('col-1') %}
 
-        <div class="col col-md-8">
+        <div class="col-12 col-md-8">
             {% block block_grid_8_4_col_1_inner %}
                 {% sw_include "@Storefront/storefront/element/cms-element-" ~ element.type ~ ".html.twig" ignore missing %}
             {% endblock %}
@@ -13,7 +13,7 @@
     {% block block_grid_8_4_col_2 %}
         {% set element = block.slots.getSlot('col-2') %}
 
-        <div class="col col-md-4">
+        <div class="col-12 col-md-4">
             {% block block_grid_8_4_col_2_inner %}
                 {% sw_include "@Storefront/storefront/element/cms-element-" ~ element.type ~ ".html.twig" ignore missing %}
             {% endblock %}
