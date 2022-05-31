@@ -1,3 +1,6 @@
+# 1.0.8
+- support shopware version 6.4.11.0 or higher
+
 # 1.0.7
 - all columns on mobile are full width
 
