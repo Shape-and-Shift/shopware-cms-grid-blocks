@@ -17,9 +17,9 @@
         }
     },
     "require": {
-        "shopware/core": "~6.6.0",
-        "shopware/storefront": "~6.6.0",
-        "shopware/administration": "~6.6.0"
+      "shopware/core": "~6.7.0",
+      "shopware/administration": "~6.7.0",
+      "shopware/storefront": "~6.7.0"
     },
     "extra": {
         "shopware-plugin-class": "Sas\\CmsGridBlocks\\SasCmsGridBlocks",
@@ -28,8 +28,8 @@
           "en-GB": "CMS grid blocks"
         },
         "description": {
-            "en-GB": "A plugin for the CMS builder which adds blocks for several column layouts",
-            "de-DE": "Plugin welches im CMS Designer diverse Spalten Blöcke bereit stellt"
+            "en-GB": "A plugin for the CMS builder that enhances layout options by adding flexible block types, allowing you to create pages with various multi-column arrangements.",
+            "de-DE": "Ein Plugin für den CMS-Designer, das die Gestaltungsmöglichkeiten erweitert, indem es verschiedene Spalten-Blöcke für flexible Seitenlayouts bereitstellt."
         },
         "manufacturerLink": {
             "en-GB": "https://shapeandshift.dev",
