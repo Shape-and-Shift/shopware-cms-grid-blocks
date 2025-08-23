@@ -1,5 +1,5 @@
 # 2.0.0
-- support shopware version 6.6
+- support shopware version 6.7
 
 # 1.1.0
 - support shopware version 6.6

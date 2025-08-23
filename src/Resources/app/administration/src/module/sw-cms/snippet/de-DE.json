@@ -2,6 +2,9 @@
     "sas-cms-grid": {
         "blocks": {
             "grid": {
+                "category": {
+                  "label": "Gitter"
+                },
                 "oneColumn": {
                     "label": "Volle Breite"
                 },
