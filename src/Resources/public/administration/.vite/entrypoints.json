@@ -1,0 +1,25 @@
+{
+  "base": "/bundles/sascmsgridblocks/administration/",
+  "entryPoints": {
+    "sas-cms-grid-blocks": {
+      "css": [
+        "/bundles/sascmsgridblocks/administration/assets/sas-cms-grid-blocks-C2bdELLd.css"
+      ],
+      "dynamic": [],
+      "js": [
+        "/bundles/sascmsgridblocks/administration/assets/sas-cms-grid-blocks-Smgn-Hpd.js"
+      ],
+      "legacy": false,
+      "preload": []
+    }
+  },
+  "legacy": false,
+  "metadatas": {},
+  "version": [
+    "7.1.0",
+    7,
+    1,
+    0
+  ],
+  "viteServer": null
+}

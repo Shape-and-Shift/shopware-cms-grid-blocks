@@ -1,4 +1,15 @@
 {
+    "apps": {
+        "sw-cms": {
+            "detail": {
+                "label": {
+                    "blockCategory": {
+                        "sas-grid": "Gitter"
+                    }
+                }
+            }
+        }
+    },
     "sas-cms-grid": {
         "blocks": {
             "grid": {

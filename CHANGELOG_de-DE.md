@@ -1,3 +1,6 @@
+# 2.0.1
+- Fehlendes Kategorie-Label hinzugefügt
+
 # 2.0.0
 - Unterstützung für Shopware-Version 6.7 hinzugefügt
 

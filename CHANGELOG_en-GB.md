@@ -1,3 +1,6 @@
+# 2.0.1
+- added missing category label
+
 # 2.0.0
 - support shopware version 6.7
 

@@ -1,0 +1,11 @@
+{
+  "main.js": {
+    "file": "assets/sas-cms-grid-blocks-Smgn-Hpd.js",
+    "name": "sas-cms-grid-blocks",
+    "src": "main.js",
+    "isEntry": true,
+    "css": [
+      "assets/sas-cms-grid-blocks-C2bdELLd.css"
+    ]
+  }
+}
